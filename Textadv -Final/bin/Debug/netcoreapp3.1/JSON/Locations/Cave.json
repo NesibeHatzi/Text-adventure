@@ -1,0 +1,20 @@
+{
+    "Name": "The Cave",
+    "BaseDescription": "The cave is dark and damp, it stinks here too!",
+    
+    "FriendlyJsonFileName": "",
+    "FriendlyDescription": "",
+    
+    "MonsterJsonFileName": "",
+    "MonsterDescription": "",
+    
+    "ItemJsonFileNames": 
+    [
+        "LongSword"
+    ], 
+    
+    "NorthOf": "",
+    "EastOf": "",
+    "SouthOf": "The Forest",
+    "WestOf": ""
+}

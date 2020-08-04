@@ -1,0 +1,20 @@
+{
+    "Name": "Mountain",
+    "BaseDescription": "A very dangerous mountain and it is so incredibly quiet here!?",
+    
+    "FriendlyJsonFileName": "Fairy",
+    "FriendlyDescription": "Someone comes: it's the FRIENDLY_NAME.",
+    
+    "MonsterJsonFileName": "Dragon",
+    "MonsterDescription": "OOoo there comes the dangerous MONSTER_NAME.",
+    
+    "ItemJsonFileNames": 
+    [
+        "LongSword"
+    ], 
+    
+    "NorthOf": "The Forest",
+    "EastOf": "",
+    "SouthOf": "",
+    "WestOf": ""
+}
